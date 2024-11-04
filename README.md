@@ -9,9 +9,9 @@ Full Stack Developer
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-ABOUT ME💬
 
-## Hi there 👋
+
+## ABOUT ME💬
 
 Hey there! I'm Pedro Mirassol, a passionate tech enthusiast and aspiring full stack developer. My journey into the world of programming began with a fascination for technology and how it shapes our lives.
 
