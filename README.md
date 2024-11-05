@@ -13,14 +13,11 @@ Full Stack Developer
 
 ## ABOUT ME💬
 
-Hey there! I'm Pedro Mirassol, a passionate tech enthusiast and aspiring full stack developer. My journey into the world of programming began with a fascination for technology and how it shapes our lives.
+Hey there! I'm Pedro Mirassol, a passionate tech enthusiast and aspiring full stack developer with significant exposure to the Web3 space, where working as a community manager for NFT projects introduced me to the world of programming and sparked my journey into development. 
 
-I dove deeper into the tech landscape through my training at Code for All, where I honed my skills in both front-end and back-end development. I thrive on solving complex problems and turning innovative ideas into functional applications, embracing every challenge that comes my way.
-
-When I'm not coding, you'll find me at the gym or out for a run. Just like in coding, fitness teaches me resilience and adaptability, especially when facing unexpected challenges.
+Experienced in problem-solving and blending technical know-how with creativity to build effective solutions. Strong communication and digital community management skills enhance teamwork and adaptability. Committed to continuous growth, both professionally and personally, through activities like gym training and running that foster resilience.
 
 Let's connect! I'm eager to discuss technology, share insights, and collaborate on exciting projects. Together, we can make a difference in the tech world!
-
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pedromirassol/) | [Email](mirassol.pedro@gmail.com)
 
 <!--
