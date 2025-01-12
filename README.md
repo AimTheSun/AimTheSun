@@ -1,16 +1,16 @@
 ## ABOUT ME 💬
 
-Hey there! I'm Pedro Mirassol, a passionate tech enthusiast and aspiring full stack developer with significant exposure to the Web3 space, where working as a community manager for NFT projects introduced me to the world of programming and sparked my journey into development. 
+Hi! I'm Pedro Mirassol, an aspiring Junior Software Developer. My experience in Web3 and NFT projects is what led me to become a programmer, driven by my passion for technology. 
 
-Experienced in problem-solving and blending technical know-how with creativity to build effective solutions. Strong communication and digital community management skills enhance teamwork and adaptability. Committed to continuous growth, both professionally and personally, through activities like gym training and running that foster resilience.
+I enjoy problem-solving and combining technical skills with creativity to build effective solutions. I'm committed to continuous growth, both professionally and personally, through activities like gym training and running.
 
-Let's connect! I'm eager to discuss technology, share insights, and collaborate on exciting projects. Together, we can make a difference in the tech world!
+Let’s connect! I’d love to discuss technology and collaborate on exciting projects.
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pedromirassol/) | [Email](mailto:mirassol.pedro@gmail.com)
 
 ---
 
-- 🔭 I’m currently working on **Algorithmic Trading on QuantConnect by Udemy**
+- 🔭 I’m currently working on **Algorithmic Trading on QuantConnect (Udemy)**
 - 🌱 I’m currently learning **Python**
 
 ---
