@@ -19,9 +19,9 @@ Let’s connect! I’d love to discuss technology and collaborate on exciting pr
 
 👨‍💻 Java, JavaScript  
 🦔 Spring, Spring MVC, Spring Boot, Hibernate  
-⚙️ React, Svelte, Node.js  
+⚙️ React, Node.js  
 👁️ CSS, Bootstrap, Tailwind  
-💽 MySQL, PostgreSQL, SQLite  
+💽 MySQL  
 
 ---
 
