@@ -2,8 +2,6 @@
 
 Hi! I'm Pedro Mirassol, an aspiring Junior Software Developer. My experience in Web3 and NFT projects is what led me to become a programmer, driven by my passion for technology. 
 
-I enjoy problem-solving and combining technical skills with creativity to build effective solutions. I'm committed to continuous growth, both professionally and personally, through activities like gym training and running.
-
 Let’s connect! I’d love to discuss technology and collaborate on exciting projects.
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pedromirassol/) | [Email](mailto:mirassol.pedro@gmail.com)
