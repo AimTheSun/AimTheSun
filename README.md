@@ -4,7 +4,7 @@ Hi! I'm Pedro Mirassol, an aspiring Junior Software Developer. My experience in 
 
 Let’s connect! I’d love to discuss technology and collaborate on exciting projects.
 
-My [WEBSITE](pedromirassol.website)
+My [Website And Portofolio](pedromirassol.website)
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pedromirassol/) | [Email](mailto:mirassol.pedro@gmail.com)
 
