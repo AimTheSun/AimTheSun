@@ -11,7 +11,7 @@ My [Website & Portofolio](pedromirassol.website)
 ---
 
 - 🔭 I’m currently working on improving the Full-Stack **FlowFit app** [FlowFit WebApp](https://github.com/AimTheSun/flowfit-webapp)
-- 🌱 I’m also working on the Full-Stack **Contact Manager app** [Contact Management App](https://github.com/AimTheSun/contact-management-app)
+- 🌱 I’m learning React and TypeScript
 
 ---
 
