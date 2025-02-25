@@ -1,53 +1,51 @@
-## ABOUT ME 💬
+<!-- Waving Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=30&fontColor=fff"/>
 
-Hi! I'm Pedro Mirassol, an aspiring Junior Software Developer. My experience in Web3 and NFT projects is what led me to become a programmer, driven by my passion for technology. 
+<div align="center">
+  <h1>👋 Hey, I’m Pedro Mirassol!</h1>
+  <h3>Junior Software Developer </h3>
+</div>
 
-Let’s connect! I’d love to discuss technology and collaborate on exciting projects.
+I’m a tech-driven coder with a passion for Web3 and NFTs that ignited my programming journey. Ready to collaborate and build something epic? Let’s connect!  
 
-My [Website & Portofolio](pedromirassol.website)
-
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pedromirassol/) | [Email](mailto:mirassol.pedro@gmail.com)
-
----
-
-- 🔭 I’m currently working on improving the Full-Stack **FlowFit app** [FlowFit WebApp](https://github.com/AimTheSun/flowfit-webapp)
-- 🌱 I’m learning React and TypeScript
+🌐 [Portfolio](https://pedromirassol.website)  
+📧 [Email](mailto:mirassol.pedro@gmail.com) | [LinkedIn](https://www.linkedin.com/in/pedromirassol/)  
 
 ---
 
-## Skills
+## What’s Cooking? 🍳
 
-👨‍💻 Java, JavaScript  
-🦔 Spring, Spring MVC, Spring Boot, Hibernate  
-⚙️ React, Node.js  
-👁️ CSS, Bootstrap, Tailwind  
-💽 MySQL  
-
----
-
-## GitHub Contributions
-
-![Your contributions](https://github-readme-stats.vercel.app/api?username=AimTheSun&show_icons=true&theme=radical)
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AimTheSun&layout=compact&theme=radical)
+- 🔭 **Currently building**: Full-Stack goodness with the **FlowFit app**  
+  [FlowFit WebApp](https://github.com/AimTheSun/flowfit-webapp)  
+- 🌱 **Learning**: React, TypeScript, and the art of clean code  
+- 💭 **Dreaming**: Web3 innovations that change the game  
 
 ---
 
-## Technologies
+## My Tech Arsenal
 
-🌐 Here are some of the technologies I work with:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,spring,mysql,tailwind,aws,git,bootstrap,typescript" />
+</div>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-9B1B30?style=for-the-badge&logo=hibernate&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+---
 
+## GitHub in Motion
+
+<div align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AimTheSun&show_icons=true&theme=onedark&hide_border=true&count_private=true" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AimTheSun&layout=compact&theme=onedark&hide_border=true" />
+  <!-- Contribution Grid -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AimTheSun&theme=react-dark&hide_border=true" />
+</div>
+
+---
+
+<!-- Waving Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Let’s%20Code%20the%20Future!&fontSize=20&fontColor=fff"/>
+
+<div align="center">
+  <strong>Thanks for stopping by - let’s make some magic happen!</strong>
+</div>
