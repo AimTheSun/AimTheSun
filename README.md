@@ -24,7 +24,7 @@ I’m a tech-driven coder with a passion for Web3 and NFTs that ignited my progr
 ## My Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,spring,mysql,tailwind,aws,git,bootstrap,typescript,aws" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,spring,mysql,tailwind,aws,git,typescript" />
 </div>
 
 ---
