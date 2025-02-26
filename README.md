@@ -1,8 +1,8 @@
 <!-- Waving Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=30&fontColor=fff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=15&fontColor=fff"/>
 
 <div align="center">
-  <h1>👋 Hey, I’m Pedro Mirassol!</h1>
+  <h2>👋 Hey, I’m Pedro Mirassol!</h2>
   <h3>Junior Software Developer </h3>
 </div>
 
@@ -25,7 +25,7 @@ I’m a tech-driven coder with a passion for Web3 and NFTs that ignited my progr
 ## My Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,spring,mysql,tailwind,aws,git,bootstrap,typescript" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,spring,mysql,tailwind,aws,git,bootstrap,typescript,aws" />
 </div>
 
 ---
