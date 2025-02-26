@@ -1,6 +1,5 @@
 <!-- Waving Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=95&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=20&fontColor=fff"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=20&fontColor=fff"/>
 <div align="center">
   <h2>👋 Hey, I’m Pedro Mirassol!</h2>
   <h3>Junior Software Developer </h3>
@@ -37,8 +36,6 @@ I’m a tech-driven coder with a passion for Web3 and NFTs that ignited my progr
   <img src="https://github-readme-stats.vercel.app/api?username=AimTheSun&show_icons=true&theme=onedark&hide_border=true&count_private=true" />
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AimTheSun&layout=compact&theme=onedark&hide_border=true" />
-  <!-- Contribution Grid -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AimTheSun&theme=react-dark&hide_border=true" />
 </div>
 
 ---
