@@ -34,7 +34,7 @@ I’m a tech-driven coder with a passion for Web3 and NFTs that ignited my progr
 <div align="center">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=AimTheSun&show_icons=true&theme=onedark&hide_border=true&count_private=true" />
-  <!-- Top Languages -->
+  <!-- Top .Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AimTheSun&layout=compact&theme=onedark&hide_border=true" />
 </div>
 
