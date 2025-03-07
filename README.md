@@ -5,7 +5,7 @@
   <h3>Junior Software Developer </h3>
 </div>
 
-I’m a tech-driven coder with a passion for Web3 and NFTs that ignited my programming journey. Ready to collaborate and build something epic? Let’s connect!  
+I’m a tech-driven coder with a passion for Web3 that ignited my programming journey. Ready to collaborate and build something epic? Let’s connect!  
 
 🌐 [Portfolio](https://pedromirassol.website)  
 📧 [Email](mailto:mirassol.pedro@gmail.com) | [LinkedIn](https://www.linkedin.com/in/pedromirassol/)  
@@ -14,9 +14,9 @@ I’m a tech-driven coder with a passion for Web3 and NFTs that ignited my progr
 
 ## What’s Cooking? 🍳
 
-- 🔭 **Currently building**: Full-Stack goodness with the **FlowFit app**  
+- 🔭 **Currently building**: Full-Stack goodness with the **FlowFit app**  && **Forever-Ecommerce Shop**
   [FlowFit WebApp](https://github.com/AimTheSun/flowfit-webapp)  
-- 🌱 **Learning**: React, TypeScript, and the art of clean code  
+- 🌱 **Learning**: React, and the art of clean code  
 - 💭 **Dreaming**: Web3 innovations that change the game  
 
 ---
