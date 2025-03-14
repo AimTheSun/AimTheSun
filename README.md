@@ -32,10 +32,12 @@ I’m a tech-driven coder with a passion for Web3 that ignited my programming jo
 ## GitHub in Motion
 
 <div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AimTheSun&show_icons=true&theme=onedark&hide_border=true&count_private=true" />
-  <!-- Top .Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AimTheSun&layout=compact&theme=onedark&hide_border=true" />
+
+    
+![](https://github-readme-streak-stats.herokuapp.com/?user=AimTheSun&theme=shadow_blue&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AimTheSun&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
 </div>
 
 ---
