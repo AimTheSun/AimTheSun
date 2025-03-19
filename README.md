@@ -34,7 +34,7 @@ I’m a tech-driven coder with a passion for Web3 that ignited my programming jo
 <div align="center">
 
     
-![](https://github-readme-streak-stats.herokuapp.com/?user=AimTheSun&theme=shadow_blue&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AimTheSun&theme=shadow_blue&hide_border=true&cache_bust=319)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AimTheSun&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
