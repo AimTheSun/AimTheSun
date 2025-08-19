@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=20&fontColor=fff"/>
 <div align="center">
   <h2>👋 Hey, I’m Pedro Mirassol!</h2>
-  <h3>Junior Software Developer </h3>
+  <h3>Junior Software Developer. </h3>
 </div>
 
 I’m a tech-driven coder with a passion for Web3 that ignited my programming journey. Ready to collaborate and build something epic? Let’s connect!  
