@@ -1,42 +1,49 @@
 <!--- Waving Header --->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=20&fontColor=fff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Pedro%20Mirassol&fontSize=36&fontColor=fff"/>
+
 <div align="center">
-  <h2>👋 Hey, I’m Pedro Mirassol!</h2>
-  <h3>Junior Software Developer. </h3>
+  <h2>👨‍💻 Full-Stack Developer @ Beam Wallet</h2>
+  <p>Building modern, scalable apps with React and Node.js.</p>
 </div>
 
-I’m a tech-driven coder with a passion for Web3 that ignited my programming journey. Ready to collaborate and build something epic? Let’s connect!  
+---
+
+## 🚀 About Me  
+
+For the past **6 months**, I’ve been driving the **full-stack migration of Beam Wallet** from a legacy WordPress site to a modern **React application** — faithfully recreating the design and features, while improving scalability.  
+
+As the **sole developer**, I handle:  
+- 📐 **Planning & Architecture**  
+- 💻 **Frontend with React + Responsive UI**  
+- ⚙️ **Backend workflows & headless CMS**  
+- 📊 **Integrated analytics**  
+- 📧 **Transactional email services**  
+
+All while ensuring robust, maintainable, and future-ready code.  
+
+---
+
+## 🛠️ Tech Stack  
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,java,spring,mysql,tailwind,aws,git,javascript" />
+</div>
+
+---
+
+## 🌍 Let’s Connect  
 
 🌐 [Portfolio](https://pedromirassol.website)  
 📧 [Email](mailto:mirassol.pedro@gmail.com) | [LinkedIn](https://www.linkedin.com/in/pedromirassol/)  
 
 ---
 
-## What’s Cooking? 🍳
-
-- 🔭 **Currently building**: Full-Stack goodness with the **FlowFit app**  && **Forever-Ecommerce Shop**
-  [FlowFit WebApp](https://github.com/AimTheSun/flowfit-webapp)  
-- 🌱 **Learning**: React, and the art of clean code  
-- 💭 **Dreaming**: Web3 innovations that change the game  
-
----
-
-## My Tech Arsenal
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,spring,mysql,tailwind,aws,git,typescript" />
-</div>
-
----
-
-## GitHub in Motion
+## 📊 GitHub in Motion  
 
 <div align="center">
 
-    
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AimTheSun&theme=shadow_blue&hide_border=true&cache_bust=319)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AimTheSun&theme=shadow_blue&hide_border=true&cache_bust=319)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AimTheSun&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 
 </div>
 
@@ -46,5 +53,5 @@ I’m a tech-driven coder with a passion for Web3 that ignited my programming jo
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Let’s%20Code%20the%20Future!&fontSize=20&fontColor=fff"/>
 
 <div align="center">
-  <strong>Thanks for stopping by - let’s make some magic happen!</strong>
+  <strong>Thanks for stopping by — let’s build something epic!</strong>
 </div>
